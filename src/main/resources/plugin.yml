@@ -1,0 +1,6 @@
+name: Miplugin
+version: 1.0.1-Alpha
+main: miplugin.miplugin.Miplugin
+api-version: 1.19
+authors: [ Dark869 ]
+description: Mi primer plugin
