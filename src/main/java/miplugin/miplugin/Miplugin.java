@@ -16,5 +16,6 @@ public final class Miplugin extends JavaPlugin {
     @Override
     public void onDisable(){
         Bukkit.getConsoleSender().sendMessage("Adios n-n");
+        Bukkit.getConsoleSender().sendMessage(":3");
     }
 }
